@@ -1,0 +1,17 @@
+# Browse by Thinker
+
+- [[naval-ravikant|Naval Ravikant (纳瓦尔·拉维坎特)]] (Investor, Philosopher & Co-founder of AngelList)
+- [[marcus-aurelius|Marcus Aurelius (马可·奥勒留)]] (Roman Emperor & Stoic Philosopher)
+- [[carl-jung|Carl Jung (卡尔·荣格)]] (Founder of Analytical Psychology)
+- [[warren-buffett-charlie-munger|Warren Buffett & Charlie Munger (巴菲特与查理·芒格)]] (Berkshire Hathaway Value Investing & Mental Models)
+- [[jensen-huang|Jensen Huang (黄仁勋)]] (Co-founder & CEO of NVIDIA)
+- [[sam-altman|Sam Altman (山姆·奥尔特曼)]] (CEO of OpenAI & Former YC President)
+- [[anthropic-claude|Anthropic & Dario Amodei (Anthropic 与 Dario Amodei)]] (Frontier AI Safety Lab & Creators of Claude)
+- [[george-orwell|George Orwell (乔治·奥威尔)]] (Author of 1984 & Animal Farm)
+- [[fyodor-dostoevsky|Fyodor Dostoevsky (陀思妥耶夫斯基)]] (Russian Novelist & Philosopher)
+- [[viktor-frankl|Viktor Frankl (维克多·弗兰克尔)]] (Psychiatrist & Founder of Logotherapy)
+- [[friedrich-nietzsche|Friedrich Nietzsche (尼采)]] (Philosopher of Amor Fati)
+- [[seneca|Seneca (塞涅卡)]] (Roman Statesman & Stoic Essayist)
+- [[epictetus|Epictetus (爱比克泰德)]] (Stoic Teacher of the Dichotomy of Control)
+- [[franz-kafka|Franz Kafka (卡夫卡)]] (Author of The Trial & The Metamorphosis)
+- [[leo-tolstoy|Leo Tolstoy (托尔斯泰)]] (Author of War and Peace)
