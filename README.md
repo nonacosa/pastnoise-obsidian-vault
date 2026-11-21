@@ -1,14 +1,14 @@
 # PastNoise Open Knowledge Vault (Obsidian Ready)
 
-[![Live Site](https://img.shields.io/badge/Live-pastnoise.com-d4b47c)](https://pastnoise.com) [![Screenings](https://img.shields.io/badge/Screenings-37-48c78e)](https://pastnoise.com) [![Clips](https://img.shields.io/badge/Timestamped_Clips-200-blue)](https://pastnoise.com) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Live Site](https://img.shields.io/badge/Live-pastnoise.com-d4b47c)](https://pastnoise.com) [![Screenings](https://img.shields.io/badge/Screenings-58-48c78e)](https://pastnoise.com) [![Clips](https://img.shields.io/badge/Timestamped_Clips-314-blue)](https://pastnoise.com) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Open this repository directly as an **Obsidian Vault** (or import into Logseq / Notion) to browse timestamped primary-source podcast & lecture moments paired with peer-reviewed literature.
 
 ## What Is Inside
-- **37 Curated Dossiers** across Philosophy, Health & Longevity, History, Literature, and Tech & Markets
-- **200 Exact YouTube Timestamp Clips** with transparent source tiers (`PRIMARY`, `REPORTING`, `COMMENTARY`) and sponsor ad-reads stripped out
-- **162 Verified Citations** linked to Wikipedia, PubMed, Crossref, and OpenAlex DOIs
-- **15 Thinker Maps of Content (MOCs)** with bidirectional `[[wikilinks]]` (Marcus Aurelius, Carl Jung, Naval Ravikant, Buffett & Munger, Jensen Huang, George Orwell, Dostoevsky, Viktor Frankl, and more)
+- **58 Curated Dossiers** across Philosophy, Health & Longevity, History, Literature, and Tech & Markets
+- **314 Exact YouTube Timestamp Clips** with transparent source tiers (`PRIMARY`, `REPORTING`, `COMMENTARY`) and sponsor ad-reads stripped out
+- **265 Verified Citations** linked to Wikipedia, PubMed, Crossref, and OpenAlex DOIs
+- **25 Thinker Maps of Content (MOCs)** with bidirectional `[[wikilinks]]` (Marcus Aurelius, Carl Jung, Naval Ravikant, Andrew Huberman, Rhonda Patrick, Peter Attia, Buffett & Munger, Jensen Huang, Terence Tao, Fei-Fei Li, and more)
 
 ## Quick Start (30 Seconds)
 ```bash
@@ -34,7 +34,7 @@ pastnoise-obsidian-vault/
 │   ├── literature/
 │   └── tech/
 └── Thinkers/
-    └── *.md (15 Thinker MOCs)
+    └── *.md (25 Thinker MOCs)
 ```
 
 ## License & Attribution

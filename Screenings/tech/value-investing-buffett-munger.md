@@ -17,7 +17,7 @@ tags: [pastnoise, tech, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/value-investing-buffett-munger) | [中文双语放映室](https://pastnoise.com/zh/film/value-investing-buffett-munger)
 
-**Related Thinkers**: [[warren-buffett-charlie-munger|Warren Buffett & Charlie Munger]]
+**Related Thinkers**: [[warren-buffett-charlie-munger|Warren Buffett & Charlie Munger]] · [[edward-thorp|Edward O. Thorp]]
 
 ## Core Thesis
 Charles Thomas Munger was an American businessman, investor, and philanthropist. He was the vice chairman of Berkshire Hathaway, the conglomerate controlled by Warren Buffett, from 1978 until his death in 2023. Buffett described Munger as h Across 5 independent voices, this private cut brings spoken testimony and written reference into a single uninterrupted thread.

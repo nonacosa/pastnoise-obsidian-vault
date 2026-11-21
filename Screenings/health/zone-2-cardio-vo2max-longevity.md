@@ -17,6 +17,8 @@ tags: [pastnoise, health, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/zone-2-cardio-vo2max-longevity) | [中文双语放映室](https://pastnoise.com/zh/film/zone-2-cardio-vo2max-longevity)
 
+**Related Thinkers**: [[peter-attia|Dr. Peter Attia]]
+
 ## Core Thesis
 VO2 max is not just a number for athletes; it is a vital sign of how efficiently the body converts air into life. The conversation around zone 2 cardio and high-intensity intervals reveals a practical path: most of us are far from our ceiling, and the first gains come from simply moving more. Yet the science also warns against reducing longevity to a single metric. The real work is building a sustainable practice that respects both the heart's need for gentle volume and its appetite for occasional challenge.
 

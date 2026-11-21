@@ -17,6 +17,8 @@ tags: [pastnoise, health, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/cortisol-chronic-stress-nervous-system) | [中文双语放映室](https://pastnoise.com/zh/film/cortisol-chronic-stress-nervous-system)
 
+**Related Thinkers**: [[andrew-huberman|Andrew Huberman]]
+
 ## Core Thesis
 Early childhood is a critical period in a child's life that includes ages from birth to five years old. Psychological stress is an inevitable part of life. Human beings can experience stress from an early age. Although stress is a factor fo Across 6 independent voices, this private cut brings spoken testimony and written reference into a single uninterrupted thread.
 

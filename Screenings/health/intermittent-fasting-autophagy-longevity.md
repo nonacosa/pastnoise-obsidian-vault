@@ -17,6 +17,8 @@ tags: [pastnoise, health, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/intermittent-fasting-autophagy-longevity) | [中文双语放映室](https://pastnoise.com/zh/film/intermittent-fasting-autophagy-longevity)
 
+**Related Thinkers**: [[rhonda-patrick|Dr. Rhonda Patrick]] · [[david-sinclair|Dr. David Sinclair]]
+
 ## Core Thesis
 Intermittent fasting is less a diet than a rhythm—a deliberate pause that lets the body repair what daily eating leaves unattended. The spoken voices here, from clinicians to longevity researchers, converge on autophagy as the mechanism, while the written record grounds it in spermidine, gene expression, and lifespan studies. Yet the evidence is often indirect, drawn from mice and markers, not from decades of human lives. The honest takeaway: fasting is a plausible lever for healthspan, not a proven elixir.
 

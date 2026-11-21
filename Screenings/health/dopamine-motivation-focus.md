@@ -17,6 +17,8 @@ tags: [pastnoise, health, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/dopamine-motivation-focus) | [中文双语放映室](https://pastnoise.com/zh/film/dopamine-motivation-focus)
 
+**Related Thinkers**: [[andrew-huberman|Andrew Huberman]]
+
 ## Core Thesis
 Dopamine is less a reward than a signal that effort is worth making. When it fires after genuine striving, it reinforces the very persistence that built it. But when it spikes without effort—through a phone at dawn or a shortcut to stimulation—the same system learns to expect ease, and focus erodes. The neuroscience of the basal ganglia and the reward circuit converges on a simple, humane prescription: earn your dopamine, and you earn your drive.
 

@@ -17,7 +17,7 @@ tags: [pastnoise, tech, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/anthropic-claude-ai-safety) | [中文双语放映室](https://pastnoise.com/zh/film/anthropic-claude-ai-safety)
 
-**Related Thinkers**: [[jensen-huang|Jensen Huang]] · [[sam-altman|Sam Altman]] · [[anthropic-claude|Anthropic & Dario Amodei]]
+**Related Thinkers**: [[jensen-huang|Jensen Huang]] · [[sam-altman|Sam Altman]] · [[anthropic-claude|Anthropic & Dario Amodei]] · [[terence-tao|Terence Tao]] · [[fei-fei-li|Fei-Fei Li]]
 
 ## Core Thesis
 Anthropic's rise is not merely a story of bigger models but of embedding safety into the very act of scaling. From prompt engineers who put safety first to partnerships that accelerate Claude without abandoning caution, the company treats responsibility as an engineering discipline, not a marketing slogan. The result is a rare alignment of ethics and performance—where fewer tool calls and lower token consumption coexist with a public benefit charter. This dossier explores how that balance is built, tested, and sometimes strained.

@@ -17,7 +17,7 @@ tags: [pastnoise, tech, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/nvidia-jensen-huang-gpu-ai) | [中文双语放映室](https://pastnoise.com/zh/film/nvidia-jensen-huang-gpu-ai)
 
-**Related Thinkers**: [[jensen-huang|Jensen Huang]]
+**Related Thinkers**: [[jensen-huang|Jensen Huang]] · [[fei-fei-li|Fei-Fei Li]]
 
 ## Core Thesis
 Jensen Huang's story is not one of sudden genius but of stubborn conviction: that graphics chips could become the engine of artificial intelligence. Through decades of quiet engineering and a refusal to abandon the long view, NVIDIA turned a niche gaming technology into the infrastructure of a new era. The spoken excerpts reveal a mind obsessed with latency, learning, and the psychology of persistence—while the written record confirms a company that became indispensable. This is a portrait of how deep technical foresight, married to relentless execution, reshapes the world.

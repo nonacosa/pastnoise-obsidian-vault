@@ -17,6 +17,8 @@ tags: [pastnoise, health, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/muscle-protein-synthesis-longevity) | [中文双语放映室](https://pastnoise.com/zh/film/muscle-protein-synthesis-longevity)
 
+**Related Thinkers**: [[rhonda-patrick|Dr. Rhonda Patrick]] · [[peter-attia|Dr. Peter Attia]]
+
 ## Core Thesis
 Exercise or working out is physical activity that enhances or maintains fitness and overall health. It is performed for various reasons, including weight loss or maintenance, to aid growth and improve strength, develop muscles and the cardi Across 4 independent voices, this private cut brings spoken testimony and written reference into a single uninterrupted thread.
 

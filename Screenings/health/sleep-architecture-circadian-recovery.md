@@ -17,6 +17,8 @@ tags: [pastnoise, health, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/sleep-architecture-circadian-recovery) | [中文双语放映室](https://pastnoise.com/zh/film/sleep-architecture-circadian-recovery)
 
+**Related Thinkers**: [[andrew-huberman|Andrew Huberman]] · [[peter-attia|Dr. Peter Attia]] · [[bryan-johnson|Bryan Johnson]]
+
 ## Core Thesis
 Sleep is not an isolated collapse but a timed negotiation: a circadian oscillation near twenty-four hours, a sleep drive that accumulates, and the day's light, meals, movement, and stress pressing upon both. The speakers converge on a practical claim—regularity is physiology, not moral decoration—while the literature names what happens when timing fails: circadian rhythm sleep-wake disorders, misalignment, and metabolic cost. The documentary's deeper argument is humane: to sleep well is to live in better time with the world, and to treat rhythm as a form of care rather than a personal virtue.
 

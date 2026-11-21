@@ -17,6 +17,8 @@ tags: [pastnoise, health, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/creatine-cognition-memory) | [中文双语放映室](https://pastnoise.com/zh/film/creatine-cognition-memory)
 
+**Related Thinkers**: [[rhonda-patrick|Dr. Rhonda Patrick]] · [[joe-rogan|Joe Rogan]]
+
 ## Core Thesis
 Creatine is not merely a muscle supplement; it is a metabolic substrate for the brain's most demanding work. Across the documentary acts, researchers and clinicians converge on a quiet truth: creatine supports cognition, especially when energy demands spike—during sleep deprivation, aging, or the slow erosion of memory. Yet the evidence is nuanced, dose-dependent, and often more promising in older adults than the young. The written record confirms this, while the spoken excerpts reveal a deeper human story: memory is not just recall, but the vitality of a life still fully lived.
 

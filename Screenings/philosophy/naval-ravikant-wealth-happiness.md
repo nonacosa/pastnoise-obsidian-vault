@@ -17,7 +17,7 @@ tags: [pastnoise, philosophy, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/naval-ravikant-wealth-happiness) | [中文双语放映室](https://pastnoise.com/zh/film/naval-ravikant-wealth-happiness)
 
-**Related Thinkers**: [[naval-ravikant|Naval Ravikant]] · [[warren-buffett-charlie-munger|Warren Buffett & Charlie Munger]]
+**Related Thinkers**: [[naval-ravikant|Naval Ravikant]] · [[warren-buffett-charlie-munger|Warren Buffett & Charlie Munger]] · [[joe-rogan|Joe Rogan]] · [[edward-thorp|Edward O. Thorp]]
 
 ## Core Thesis
 Naval Ravikant’s documentary presence is less a sermon than a caution: begin with a disclaimer, distrust the clean ending, and notice how wishful thinking spends your hours. Across the Ferriss caveat, the Knowledge Project’s cosmic dead end, and the motivational clip’s warning about time, he keeps returning agency to the reader. The written record—AngelList’s startup ecology, the Thiel Fellowship’s early bet, Scott Adams’s self-improvement commentary—frames that agency as institutional and personal: build leverage, choose your games, and inspect the spectacle.

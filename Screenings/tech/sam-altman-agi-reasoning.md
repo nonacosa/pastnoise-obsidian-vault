@@ -17,7 +17,7 @@ tags: [pastnoise, tech, podcast-notes, primary-sources]
 
 **Watch with synced bilingual subtitles**: [English Screening Room](https://pastnoise.com/film/sam-altman-agi-reasoning) | [中文双语放映室](https://pastnoise.com/zh/film/sam-altman-agi-reasoning)
 
-**Related Thinkers**: [[sam-altman|Sam Altman]] · [[anthropic-claude|Anthropic & Dario Amodei]]
+**Related Thinkers**: [[sam-altman|Sam Altman]] · [[anthropic-claude|Anthropic & Dario Amodei]] · [[terence-tao|Terence Tao]]
 
 ## Core Thesis
 Sam Altman frames AGI as the greatest technological achievement in human history, but insists it only matters if it expands human agency. His timeline has compressed—from vague decades to 'two years' at the India AI Summit—while compute becomes the world's most precious commodity. Yet the boardroom fallout and training pauses reveal a deeper tension: the very systems racing toward superintelligence are also straining the institutions that build them. The written record—from Altman's ouster to peer-reviewed safety frameworks—suggests the real AGI story is not just about capability, but about who governs the transition.
